@@ -1,2 +1,2 @@
-# AdventOfCode2024
-Advent of Code Completed in Rust
+# Advent Of Code 2024
+Advent of Code attempted in Rust to learn Rust
